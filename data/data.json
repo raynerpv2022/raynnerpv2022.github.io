@@ -1,0 +1,112 @@
+{
+    "title": "Rayner Podadera Villaba | Portafolio",
+    "description": "Que lo perfecto no sea enemigo de lo bueno",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Rayner Podadera Villalba",
+    "skill": "Ingeniero Industrial, Desarrolloador de Software",
+    "location": "Málaga, España",
+    "media": {
+        "email": "raynerpv2022@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/raynerpv2022/",
+        "likedin": "https://www.linkedin.com/in/raynerpv2022"
+    },
+    "about": "Ingeniero Industrial, con perfil dirigido a la informática y el desarrollo de software, con más de 10 años deexperiencia trabajando en entornos Windows y Linux, resolviendo incidencias tanto de software como dehardware. Apasionado de la programación, la ciencia y el conocimiento. Fiel defensor del software y lastecnologías libres, del aprendizaje continuo y la superación profesional.",
+    "technologies": [
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-cplusplus-plain",
+            "name": "C++"
+        },
+        {
+            "icon": "devicon-fastapi-plain",
+            "name": "FastApi"
+        },
+        {
+            "icon": "devicon-django-plain",
+            "name": "Django"
+        },
+        {
+            "icon": "devicon-mongodb-plain",
+            "name": "MongoDB"
+        },
+        {
+            "icon": "devicon-go-plain",
+            "name": "Golang"
+        },
+        {
+            "icon": "devicon-ubuntu-plain",
+            "name": "Ubuntu"
+        },
+        {
+            "icon": "devicon-docker-plain",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-github-original",
+            "name": "GitHub"
+        }
+
+       
+    ],
+    "experience": [
+        {
+            "icon": "wind",
+            "title": "ENERCON",
+            "subtitle": "Electricista y soporte de Hardware y Software",
+            "description": "Instalación y mantenimiento de sistemas de control para aerogeneradores sobre SO Linux (Debian), diagnóstico y resolución de problemas, desarrollo de scripts de automatización usando Python, y ensamblaje de cabinas eléctricas informatizadas.",
+            "date": "8.2022 - Actualidad"
+        },
+        {
+            "icon": "terminal",
+            "title": "COPEXTEL SA",
+            "subtitle": "INGENIERO EN SISTEMAS INFORMÁTICOS",
+            "description": "Implementación de contenedores Docker, migración de proyectos a Golang desde Python y C++, creación de APIs REST con FASTAPI, GorillaMux y CHI.",
+            "date": "01/07/2007 – 23/12/2021"
+        }
+        
+    ],
+    "projects": [
+        {
+            "icon": "bar-chart-4",
+            "title": "C O N E C T A 4",
+            "subtitle": "Juego conecta 4, version 1.0 ",
+            "description": "Desarrollado en Python, para ejecutar en CLI",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+                
+            ],
+            "image": "/conecta4v1.jpg",
+            "url": "https://github.com/raynerpv2022/portafolio-python/blob/main/conecta4.py",
+            "github": "https://github.com/raynerpv2022/portafolio-python"
+        }
+        
+    ],
+    "training": [
+        {
+            "icon": "backpack",
+            "title": "INGENIERO INDUSTRIAL",
+            "subtitle": " Universidad tecnologica de la Habana (ISPJAE) ",
+            "description": "Ingenieria Industrial",
+            "date": " 08/2001 -  06/2007",
+            "certificate": "https://www.cujae.edu.cu"
+        } 
+    ],
+    "extras": [
+        {
+            "image": "/coursera.jpg",
+            "title": "Automating Real- World Tasks w ith Python",
+            "description": "Coursera, Jul 2023",
+            "url": "https://coursera.org/share/4c96e49532f898125f726713e1479534"
+        }
+        
+        
+    ]
+}
